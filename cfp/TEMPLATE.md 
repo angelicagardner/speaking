@@ -1,0 +1,96 @@
+# CFP Submission Template
+
+<!-- Copy this file, rename it to the conference slug e.g. kubecon-eu-2026.md, fill it in -->
+
+---
+
+## Submission Details
+
+| Field         | Value |
+|---------------|-------|
+| **Conference**   | <!-- e.g. KubeCon Europe 2026 --> |
+| **Website**      | <!-- https://... --> |
+| **Location**     | <!-- City, Country / Virtual --> |
+| **Event Dates**  | <!-- Month DD–DD, YYYY --> |
+| **CFP Deadline** | <!-- Month DD, YYYY --> |
+| **Notification** | <!-- Month DD, YYYY --> |
+| **Format**       | <!-- Talk / Workshop / Lightning Talk / Panel --> |
+| **Duration**     | <!-- e.g. 25 min + 5 min Q&A --> |
+| **Status**       | <!-- Draft / Submitted / Accepted / Rejected / Withdrawn --> |
+
+---
+
+## Talk Title
+
+<!-- Keep it under 60 characters if possible, and concrete. -->
+
+---
+
+## Elevator Pitch
+
+<!-- 1–3 sentences. What will attendees learn and why should they care? -->
+
+---
+
+## Abstract
+
+<!-- 200–400 words. Structure suggestion:
+- The problem or gap (1 short paragraph)
+- Your approach / what you did (1–2 paragraphs)
+- Key takeaways for the audience (bullet list or paragraph)
+Write for the CFP reviewers first, the audience second. -->
+
+---
+
+## Outline
+
+<!-- Example:
+- Introduction & problem statement (3 min)
+- Background: why existing approaches fall short (5 min)
+- Our approach: [method] (10 min)
+- Results & lessons learned (5 min)
+- Q&A (5 min)
+-->
+
+---
+
+## Target Audience
+
+<!-- Who is this talk for? What background should they have? -->
+
+- **Level:** <!-- Beginner / Intermediate / Advanced -->
+- **Assumes knowledge of:** <!-- e.g. basic ML concepts, familiarity with Python -->
+- **No prior knowledge needed for:** <!-- e.g. pose estimation, specific frameworks -->
+
+---
+
+## Tags / Track
+
+<!-- Conference-specific categories or tracks if known. -->
+
+---
+
+## Speaker Bio
+
+<!-- 3rd person, ~100 words. Tailor to the conference audience.
+Update this per submission — what's relevant for an ML conference
+differs from a developer tools conference. -->
+
+---
+
+## Additional Notes
+
+<!-- Anything else the reviewers should know:
+- Prior versions of this talk given elsewhere
+- Co-speakers
+- A/V or room setup requirements
+- Link to previous talk recordings if available
+-->
+
+---
+
+## Links
+
+- **Slides:** <!-- Add after accepted / presented -->
+- **Recording:** <!-- Add after presented -->
+- **Related talk in this repo:** <!-- e.g. ../talks/0000-xxxx/ -->
